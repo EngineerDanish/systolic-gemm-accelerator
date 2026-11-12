@@ -9,3 +9,4 @@ obj_dir/
 *.log
 vivado*.str
 synth/out/
+.~lock.*
